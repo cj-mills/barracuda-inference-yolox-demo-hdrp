@@ -4,3 +4,11 @@
 
 
 ![barracuda-inference-yolox-demo-hdrp](./images/barracuda-inference-yolox-demo-hdrp.png)
+
+
+
+
+
+### Credits
+
+"Fiat Abarth 500" (https://skfb.ly/oKtX7) by Luquita is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
